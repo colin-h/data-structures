@@ -50,7 +50,7 @@ HashTable.prototype.remove = function(k){
     }
   }
 
-  this._storage.set(i, currentBucket);
+  // this._storage.set(i, currentBucket);
 };
 
 
